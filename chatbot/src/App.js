@@ -1,4 +1,3 @@
-APP.js:
 
 import React, { useState, useEffect } from "react";
 import { Button, Input, Layout, Upload, Menu } from "antd";
